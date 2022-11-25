@@ -35,3 +35,5 @@ If you want to get the wild type or mutant type structure, you can run the follo
 python3 extract_structures.py output
 ```
 Our project is based on flex_ddg, their github address is https://github.com/Kortemme-Lab/flex_ddG_tutorial.git
+
+Sun C, Kang YF, Liu YT, Kong XW, Xu HQ, Xiong D, Xie C, Liu YH, Peng S, Feng GK, Liu Z, Zeng MS. Parallel profiling of antigenicity alteration and immune escape of SARS-CoV-2 Omicron and other variants. Signal Transduct Target Ther. 2022 Feb 8;7(1):42. DOI: 10.1038/s41392-022-00910-6.
